@@ -1,0 +1,9 @@
+Autor:
+
+	Emmanuel Rojas Fredini
+
+Fuentes:
+	Src
+
+IDE del proyecto:
+	Xilinx ISE 13.2
